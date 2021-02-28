@@ -1,0 +1,8 @@
+com\ssnc\tests\latlong\City.class
+com\ssnc\tests\latlong\CitiesShortDistance.class
+com\ssnc\tests\latlong\LatLongException.class
+com\ssnc\tests\latlong\Coordinate.class
+com\ssnc\tests\latlong\Pair.class
+com\ssnc\tests\latlong\DistanceService.class
+com\ssnc\tests\latlong\LatLongApplication.class
+com\ssnc\tests\latlong\Location.class

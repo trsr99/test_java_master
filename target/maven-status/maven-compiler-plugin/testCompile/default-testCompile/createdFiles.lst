@@ -1,0 +1,5 @@
+com\ssnc\tests\latlong\TestDataFactory.class
+com\ssnc\tests\latlong\CoordinateTest.class
+com\ssnc\tests\latlong\DistanceServiceTest.class
+com\ssnc\tests\latlong\PairTest.class
+com\ssnc\tests\latlong\CityTest.class
